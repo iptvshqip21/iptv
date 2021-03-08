@@ -1,4 +1,746 @@
+
 #EXTM3U
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",TOP CHANNEL HD 
+http://us.bestvideostreaming.is/8708/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",KLAN HD 
+http://us.bestvideostreaming.is/8704/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",VIZION PLUS HD 
+http://us.bestvideostreaming.is/8703/index.m3u8
+
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",RTK 1
+http://us.bestvideostreaming.is/8702/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",RTK 3 
+http://us.bestvideostreaming.is/8902/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",RTK 4 
+http://us.bestvideostreaming.is/8903/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",RTSH 1 HD 
+http://us.bestvideostreaming.is/8701/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",MKTV 2 
+http://us.bestvideostreaming.is/8728/index.m3u8
+
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",KTV 
+http://us.bestvideostreaming.is/8705/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",RTV 21 HD 
+http://us.bestvideostreaming.is/8748/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",KLAN KOSOVA 
+http://us.bestvideostreaming.is/8706/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",ALSAT M 
+http://us.bestvideostreaming.is/8713/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",RTV21 PLUS 
+http://us.bestvideostreaming.is/8750/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",RTV 21MK 
+http://us.bestvideostreaming.is/8790/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",TV DUKAGJINI 
+http://us.bestvideostreaming.is/8788/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",KLAN PLUS 
+http://us.bestvideostreaming.is/8720/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",ALBTV USA 
+http://us.bestvideostreaming.is/8711/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",KANAL 10 
+http://us.bestvideostreaming.is/8849/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",FIRST TV 
+http://us.bestvideostreaming.is/8717/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",T7 
+http://us.bestvideostreaming.is/8904/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",MFM MUSIC TV 
+http://us.bestvideostreaming.is/7711/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",FAX NEWS 
+http://us.bestvideostreaming.is/10022/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",ABC NEWS 
+http://us.bestvideostreaming.is/10023/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",NEWS 24 
+http://us.bestvideostreaming.is/8724/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",TOP NEWS 
+http://us.bestvideostreaming.is/10025/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",ARTA NEWS 
+http://us.bestvideostreaming.is/8745/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",A1 REPORT 
+http://us.bestvideostreaming.is/8707/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",ORA NEWS 
+http://us.bestvideostreaming.is/8715/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",7 NEWS 
+http://us.bestvideostreaming.is/8761/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",SUPER SPORT 1 
+http://us.bestvideostreaming.is/10030/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",SUPER SPORT 2 
+http://us.bestvideostreaming.is/8734/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",SUPER SPORT 3 
+http://us.bestvideostreaming.is/8741/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",SUPER SPORT 4 
+http://us.bestvideostreaming.is/8743/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",SUPER SPORT 5 
+http://us.bestvideostreaming.is/8736/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",K SPORT 1 
+http://us.bestvideostreaming.is/10035/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",K SPORT 2 
+http://us.bestvideostreaming.is/10036/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",TRING SPORT NEWS 
+http://us.bestvideostreaming.is/8785/index.m3u8
+ 
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",TRING SPORT 1 
+http://us.bestvideostreaming.is/8796/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",TRING SPORT 2 
+http://us.bestvideostreaming.is/8797/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",TRING SPORT 3 
+http://us.bestvideostreaming.is/8798/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",TRING SPORT 4 
+http://us.bestvideostreaming.is/8799/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",SPORT PLUS 1 
+http://us.bestvideostreaming.is/7001/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",SPORT PLUS 2 
+http://us.bestvideostreaming.is/7002/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",SPORT PLUS 3 
+http://us.bestvideostreaming.is/7003/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",SPORT PLUS 4 
+http://us.bestvideostreaming.is/7004/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",RTSH SHQIP 
+http://us.bestvideostreaming.is/8721/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",TRING SHQIP 
+http://us.bestvideostreaming.is/8762/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",T HD 
+http://us.bestvideostreaming.is/8746/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",T HD -6h
+http://us.bestvideostreaming.is/8746_6h/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",3 PLUS 
+http://us.bestvideostreaming.is/8773/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",FILM NJE HD 
+http://us.bestvideostreaming.is/8730/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",FILM DY HD 
+http://us.bestvideostreaming.is/8731/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",FILM HITS 
+http://us.bestvideostreaming.is/8755/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",FILM AKSION 
+http://us.bestvideostreaming.is/8742/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",FILM THRILLER 
+http://us.bestvideostreaming.is/8757/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",EURO FILM 
+http://us.bestvideostreaming.is/8758/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",FILM DRAME 
+http://us.bestvideostreaming.is/8727/index.m3u8
+ 
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",FILM AUTOR 
+http://us.bestvideostreaming.is/8753/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",FILM KOMEDI 
+http://us.bestvideostreaming.is/8752/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",TRING COMEDY 
+http://us.bestvideostreaming.is/8767/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",TRING FANTASY 
+http://us.bestvideostreaming.is/8766/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",TRING SUPER 
+http://us.bestvideostreaming.is/8770/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",TRING ACTION 
+http://us.bestvideostreaming.is/8769/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",KANAL D DRAMA 
+http://us.bestvideostreaming.is/6263/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",JOLLY HD 
+http://us.bestvideostreaming.is/8774/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",FILM STINET 
+http://us.bestvideostreaming.is/8751/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",TRING LIVING 
+http://us.bestvideostreaming.is/8771/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",STAR TV HD 
+http://us.bestvideostreaming.is/8781/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",SKY 7 
+http://us.bestvideostreaming.is/8889/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",SKY AKSION 
+http://us.bestvideostreaming.is/8880/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",SKY KOMEDI 
+http://us.bestvideostreaming.is/8881/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",SKY MAX 
+http://us.bestvideostreaming.is/8882/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",SKY DRAME 
+http://us.bestvideostreaming.is/8883/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",SKY NOVELA 
+http://us.bestvideostreaming.is/8884/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",FAMILY HD 
+http://us.bestvideostreaming.is/8754/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",NAT GEOGRAPHIC 
+http://us.bestvideostreaming.is/8725/index.m3u8
+ 
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",EXP NATYRA 
+http://us.bestvideostreaming.is/8739/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",EXP SHKENCE 
+http://us.bestvideostreaming.is/8726/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",EXP HISTORI 
+http://us.bestvideostreaming.is/8729/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",TRING PLANET 
+http://us.bestvideostreaming.is/8764/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",TRING WORLD 
+http://us.bestvideostreaming.is/8763/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",TRING HISTORI 
+http://us.bestvideostreaming.is/8765/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",ANIMAL PLANET 
+http://us.bestvideostreaming.is/8886/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",SKY PLANET 
+http://us.bestvideostreaming.is/8888/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",TRING LIFE 
+http://us.bestvideostreaming.is/8768/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",MUSE 
+http://us.bestvideostreaming.is/8778/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",TRING SMILE 
+http://us.bestvideostreaming.is/8772/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",TV MITROVICA 
+http://us.bestvideostreaming.is/8716/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",21 MIX 
+http://us.bestvideostreaming.is/8756/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",RTV FONTANA 
+http://us.bestvideostreaming.is/8852/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",TAO TAO 
+http://us.bestvideostreaming.is/10090/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",BABY TV 
+http://us.bestvideostreaming.is/8747/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",BANG BANG 
+http://us.bestvideostreaming.is/8737/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",CUFO 
+http://us.bestvideostreaming.is/8738/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",TIP TV 
+http://us.bestvideostreaming.is/8776/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",SOFIA 
+http://us.bestvideostreaming.is/8820/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",TRING KIDS 
+http://us.bestvideostreaming.is/8777/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",TRING TRING 
+http://us.bestvideostreaming.is/8775/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",RTSH KIDS 
+http://us.bestvideostreaming.is/8744/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",ALB UK 
+http://us.bestvideostreaming.is/8794/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",ELRODI 
+http://us.bestvideostreaming.is/8718/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",FOLK+ 
+http://us.bestvideostreaming.is/8759/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",RTV21 POPULLORE 
+http://us.bestvideostreaming.is/8749/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",MUZIKE FOLKLORIKE 
+http://us.bestvideostreaming.is/8735/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",EURO AL 
+http://us.bestvideostreaming.is/8719/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",DASMA TV 
+http://us.bestvideostreaming.is/8793/index.m3u8 
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",BBF 
+http://us.bestvideostreaming.is/8795/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",A-MOL TV 
+http://us.bestvideostreaming.is/7722/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",TV KOHA 
+http://us.bestvideostreaming.is/8710/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",RTSH MUZIKE 
+http://us.bestvideostreaming.is/8052/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",MTV KOSOVA 
+http://us.bestvideostreaming.is/8853/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",TV OPOJA 
+http://us.bestvideostreaming.is/8723/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",TV DIASPORA 
+http://us.bestvideostreaming.is/8779/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",TV OPINION 
+http://us.bestvideostreaming.is/8819/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",TURBO 
+http://us.bestvideostreaming.is/8839/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",MY MUSIC 
+http://us.bestvideostreaming.is/8821/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",TV KOPLIKU 
+http://us.bestvideostreaming.is/2508/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",TV SHENJA 
+http://us.bestvideostreaming.is/8850/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",TV LLAPI 
+http://us.bestvideostreaming.is/8823/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",KLAN MAQEDONIA 
+http://us.bestvideostreaming.is/8789/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",TV BESA 
+http://us.bestvideostreaming.is/8817/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",PEACE TV 
+http://us.bestvideostreaming.is/8792/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",RTV ISLAM 
+http://us.bestvideostreaming.is/8714/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",RTV PENDIMI 
+http://us.bestvideostreaming.is/8786/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",DRITA TV 
+http://us.bestvideostreaming.is/8890/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",SYRI VISION 
+http://us.bestvideostreaming.is/8784/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",TV DIELLI 
+http://us.bestvideostreaming.is/8818/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",BOIN TV 
+http://us.bestvideostreaming.is/10127/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",TRING INTERNATIONAL 
+http://us.bestvideostreaming.is/8802/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",EUROSPORT 
+http://us.bestvideostreaming.is/8814/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",EUROSPORT 2 
+http://us.bestvideostreaming.is/8815/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",EURONEWS 
+http://us.bestvideostreaming.is/8611/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",BLOOMBERG 
+http://us.bestvideostreaming.is/8607/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",PRO 7 
+http://us.bestvideostreaming.is/8615/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",RTL DE 
+http://us.bestvideostreaming.is/8601/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",RTL2 DE 
+http://us.bestvideostreaming.is/4441/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",SUPER RTL 
+http://us.bestvideostreaming.is/4440/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",TOGGO PLUS 
+http://us.bestvideostreaming.is/8804/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",VOX 
+http://us.bestvideostreaming.is/4478/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",DEUTCHE WELLE 
+http://us.bestvideostreaming.is/8622/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",ARTE 
+http://us.bestvideostreaming.is/4468/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",ZDF HD 
+http://us.bestvideostreaming.is/8624/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",KABEL 1 
+http://us.bestvideostreaming.is/8625/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",ARD 1 
+http://us.bestvideostreaming.is/8628/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",SAT 1 
+http://us.bestvideostreaming.is/8626/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",N24 DE 
+http://us.bestvideostreaming.is/8627/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",SRF INFO 
+http://us.bestvideostreaming.is/8803/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",TELE M1 
+http://us.bestvideostreaming.is/8805/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",RTL HR 
+http://us.bestvideostreaming.is/8807/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",KRAL MUSIC 
+http://us.bestvideostreaming.is/8806/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",RAI NEWS 
+http://us.bestvideostreaming.is/8841/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",RAI 1 
+http://us.bestvideostreaming.is/4467/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",RAI 2 
+http://us.bestvideostreaming.is/8854/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",RAI 3 
+http://us.bestvideostreaming.is/4488/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",RAI 4 
+http://us.bestvideostreaming.is/8855/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",MEDIASET ITALIA 
+http://us.bestvideostreaming.is/8847/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",RAI MOVIE 
+http://us.bestvideostreaming.is/8856/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",RAI GULP 
+http://us.bestvideostreaming.is/8857/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",RAI YOYO 
+http://us.bestvideostreaming.is/8858/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",ALFA KANALI 
+http://us.bestvideostreaming.is/8402/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",ANT 1 
+http://us.bestvideostreaming.is/8401/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",ERT 1 
+http://us.bestvideostreaming.is/8403/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",VOULI 
+http://us.bestvideostreaming.is/8405/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",BFM TV 
+http://us.bestvideostreaming.is/7741/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",SAT 1 GOLD 
+http://us.bestvideostreaming.is/7731/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",NTV 
+http://us.bestvideostreaming.is/7733/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",OBN 
+http://us.bestvideostreaming.is/7736/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",TV 5 MONDE 
+http://us.bestvideostreaming.is/10169/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",TRT 1 
+http://us.bestvideostreaming.is/8122/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",TRT TURK 
+http://us.bestvideostreaming.is/8620/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",TRT HABER 
+http://us.bestvideostreaming.is/8127/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",TRT WORLD 
+http://us.bestvideostreaming.is/8125/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",TRT MUZIKE 
+http://us.bestvideostreaming.is/8123/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",TRT AVAZ 
+http://us.bestvideostreaming.is/8126/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",ATV 
+http://us.bestvideostreaming.is/8410/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",KANAL D 
+http://us.bestvideostreaming.is/8120/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",TRT COCUK 
+http://us.bestvideostreaming.is/8411/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",TRT SPOR 
+http://us.bestvideostreaming.is/8412/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",HRT 1 
+http://us.bestvideostreaming.is/4453/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",HRT 3 
+http://us.bestvideostreaming.is/4463/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",HRT 4 
+http://us.bestvideostreaming.is/4454/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",RTL PLUS 
+http://us.bestvideostreaming.is/4489/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",HAYAT BOSNA 
+http://us.bestvideostreaming.is/8829/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",BHT 1 
+http://us.bestvideostreaming.is/8828/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",MUSIC CHANNEL 1 
+http://us.bestvideostreaming.is/4474/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",PRO 7 MAXX 
+http://us.bestvideostreaming.is/4461/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",NRJ HITS TV 
+http://us.bestvideostreaming.is/7732/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",HAYAT FOLK 
+http://us.bestvideostreaming.is/7734/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",LUXE 
+http://us.bestvideostreaming.is/8832/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",HISTORY CHANNEL 
+http://us.bestvideostreaming.is/4498/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",RT 
+http://us.bestvideostreaming.is/4508/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",E HD 
+http://us.bestvideostreaming.is/8612/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",ALJAZEERA BALKANS 
+http://us.bestvideostreaming.is/8827/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",ALJAZEERA ENGLISH 
+http://us.bestvideostreaming.is/4493/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",TVSH EST 
+http://us.bestvideostreaming.is/8701_6h/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",RTK EST 
+http://us.bestvideostreaming.is/8702_6h/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",MKTV 2 EST 
+http://us.bestvideostreaming.is/8728_6h/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",TOP CHANNEL EST 
+http://us.bestvideostreaming.is/8708_6h/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",KLAN EST 
+http://us.bestvideostreaming.is/8704_6h/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",VIZION+ EST 
+http://us.bestvideostreaming.is/8703_6h/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",KTV EST 
+http://us.bestvideostreaming.is/8705_6h/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",RTV 21 EST 
+http://us.bestvideostreaming.is/8748_6h/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",KLAN KOSOVA EST 
+http://us.bestvideostreaming.is/8706_6h/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",ALSATM EST 
+http://us.bestvideostreaming.is/8713_6h/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",KLAN PLUS EST 
+http://us.bestvideostreaming.is/8720_6h/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",RTV 21MK EST 
+http://us.bestvideostreaming.is/8790_6h/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",TV DUKAGJINI EST 
+http://us.bestvideostreaming.is/8788_6h/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",T7 EST 
+http://us.bestvideostreaming.is/8904_6h/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",TRING SHQIP EST 
+http://us.bestvideostreaming.is/8762_6h/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",T HD EST 
+http://us.bestvideostreaming.is/8746_6h/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",3 PLUS EST 
+http://us.bestvideostreaming.is/8773_6h/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",FILM AKSION EST 
+http://us.bestvideostreaming.is/8742_6h/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",JOLLY HD EST 
+http://us.bestvideostreaming.is/8774_6h/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",TRING LIVING EST 
+http://us.bestvideostreaming.is/8771_6h/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",TRING KANAL D DRAMA EST 
+http://us.bestvideostreaming.is/6263_6h/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",BABY TV EST 
+http://us.bestvideostreaming.is/8747_6h/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",ORANEWS EST 
+http://us.bestvideostreaming.is/8715_6h/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",SS1 EST 
+http://us.bestvideostreaming.is/8733_6h/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",SS2 EST 
+http://us.bestvideostreaming.is/8734_6h/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",SS3 EST 
+http://us.bestvideostreaming.is/8741_6h/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",TRING SPORT 1 EST 
+http://us.bestvideostreaming.is/8796_6h/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",RTK HD 
+http://us.bestvideostreaming.is/3016/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",TOP CHANNEL HD 
+http://us.bestvideostreaming.is/3018/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",KLAN HD 
+http://us.bestvideostreaming.is/3001/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",VIZION + HD 
+http://us.bestvideostreaming.is/8003/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",KTV HD 
+http://us.bestvideostreaming.is/3015/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",RTV 21HD 
+http://us.bestvideostreaming.is/3008/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",KLAN KS HD 
+http://us.bestvideostreaming.is/3017/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",TRING SPORT 1 HD 
+http://us.bestvideostreaming.is/3011/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",TRING SPORT 2 HD 
+http://us.bestvideostreaming.is/3012/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",SUPER SPORT 2 HD 
+http://us.bestvideostreaming.is/3002/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",SUPER SPORT 3 HD 
+http://us.bestvideostreaming.is/3003/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",SUPER SPORT 4 HD 
+http://us.bestvideostreaming.is/3004/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",JOLLY HD 
+http://us.bestvideostreaming.is/3014/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",LIVING HD 
+http://us.bestvideostreaming.is/3013/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",TV DUKAGJINI HD 
+http://us.bestvideostreaming.is/3010/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",FILM 1 HD 
+http://us.bestvideostreaming.is/3005/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",FILM 2 HD 
+http://us.bestvideostreaming.is/3006/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",FOX MOVIES 
+http://us.bestvideostreaming.is/10252/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",FOX LIFE 
+http://us.bestvideostreaming.is/8861/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",FOX CRIME 
+http://us.bestvideostreaming.is/8862/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",FASHION BOX 
+http://us.bestvideostreaming.is/8825/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",TUNE BOX 
+http://us.bestvideostreaming.is/8826/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",FIGHT BOX 
+http://us.bestvideostreaming.is/4447/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",ART HOUSE 
+http://us.bestvideostreaming.is/8836/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="SHQIPTARE",ORF 2 
+http://us.bestvideostreaming.is/8864/index.m3u8
+
 #EXTINF:0 tvg-id="RTK.al" group-title="KOMBETARE",RTK HD
 http://flix.flixal.net:25461/live/2/2/542.m3u8|User-Agent=flix - al net ;)
 #EXTINF:0 tvg-id="TopChannel.al" group-title="KOMBETARE",TOP CHANNEL
